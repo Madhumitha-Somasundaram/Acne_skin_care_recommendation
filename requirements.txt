@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+mtcnn
+opencv-python
+numpy
+pillow
+pandas
